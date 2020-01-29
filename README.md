@@ -6,7 +6,7 @@
         2. Create a task scheduler with "at startup" trigger
         3. Watch her/his reaction
         
-    Mega Pack:
+    Mega Prank:
         Don't make it 100 or the system may crash! (Mega Timewaster Prank)
 
 2. Seconds to Day HH:MM:SS Converter
