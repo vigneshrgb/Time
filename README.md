@@ -8,3 +8,8 @@
         
     Mega Pack:
         Don't make it 100 or the system may crash!
+
+2. Seconds to Day HH:MM:SS Converter
+    Here's how it works
+        1. You enter the seconds
+        2. Python outputs the entered seconds to the format "Day: HH:MM:SS"
