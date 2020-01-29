@@ -7,7 +7,7 @@
         3. Watch her/his reaction
         
     Mega Pack:
-        Don't make it 100 or the system may crash!
+        Don't make it 100 or the system may crash! (Mega Timewaster Prank)
 
 2. Seconds to Day HH:MM:SS Converter
     Here's how it works
